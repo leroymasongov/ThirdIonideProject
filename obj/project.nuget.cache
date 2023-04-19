@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYeeOomLhTlr9ZlL5NwkasQWiAgxHlkQEpBgkRCMiPIG6+atPl4fXgc+PMhVI1wdcFn8ZbwV/ECCNd3CcXJ1gg==",
+  "dgSpecHash": "kgIav0DU/d22HyO0oCR7dp+HqIZ6eOpKTBLN8Mgrmz5y54quHLOLPoM9zR+CJuZAGL3DXLwkmqbXpcsBl+JUWA==",
   "success": true,
-  "projectFilePath": "D:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj",
+  "projectFilePath": "d:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\leroy\\.nuget\\packages\\fsharp.core\\6.0.4\\fsharp.core.6.0.4.nupkg.sha512"
   ],

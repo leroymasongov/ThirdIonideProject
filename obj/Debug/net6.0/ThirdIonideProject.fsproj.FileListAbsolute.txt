@@ -24,3 +24,4 @@ D:\repos3\ThirdIonideProject\obj\Debug\net6.0\ThirdIonideProject.fsproj.CopyComp
 D:\repos3\ThirdIonideProject\obj\Debug\net6.0\ThirdIonideProject.dll
 D:\repos3\ThirdIonideProject\obj\Debug\net6.0\ThirdIonideProject.pdb
 D:\repos3\ThirdIonideProject\obj\Debug\net6.0\ThirdIonideProject.genruntimeconfig.cache
+d:\repos3\ThirdIonideProject\obj\Debug\net6.0\ThirdIonideProject.fsproj.CoreCompileInputs.cache

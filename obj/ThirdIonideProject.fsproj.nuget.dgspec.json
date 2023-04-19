@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj": {}
+    "d:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj": {}
   },
   "projects": {
-    "D:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj": {
+    "d:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj",
+        "projectUniqueName": "d:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj",
         "projectName": "ThirdIonideProject",
-        "projectPath": "D:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj",
+        "projectPath": "d:\\repos3\\ThirdIonideProject\\ThirdIonideProject.fsproj",
         "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
-        "outputPath": "D:\\repos3\\ThirdIonideProject\\obj\\",
+        "outputPath": "d:\\repos3\\ThirdIonideProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leroy\\AppData\\Roaming\\NuGet\\NuGet.Config",
