@@ -9,7 +9,7 @@
         if isVowel word[0] then
             word + "yay"
         else
-            word[1..] + string word[0] + "ay1"
+            word[1..] + string word[0] + "ay12"
 
 
 [<EntryPoint>]
